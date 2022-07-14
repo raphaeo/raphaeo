@@ -1,0 +1,3 @@
+- ○ Hi, I’m @raphaeo
+- ○ I’m interested in learn new programing languages
+- ○ I’m currently learning python
